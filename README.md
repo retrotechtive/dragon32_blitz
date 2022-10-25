@@ -5,7 +5,7 @@ Dragon 32 type-in game Blitz, from the July 1983 issue of Dragon Data magazine.
 
 Dragon BLITZ
 
-A game for the Dragon 32, from the July 1983 issue of the official Dragon Data magazine for the Dragon 32.
+A game for the Dragon 32, from the July 1983 issue of Dragon Data's official Dragon User magazine for the Dragon 32.
 
 Typed in and tested for your convenience.
 
