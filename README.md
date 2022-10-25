@@ -15,4 +15,4 @@ Keys are ENTER to drop bomb and UP arrow key to fly upwards (while fuel lasts! E
 
 Good luck!
 
-NB: I did not write this game, but reproduced it here for posterity as it was the first type-in game I ever entered as a kid on a computer :-)
+NB: I did not write this game - it was written by Damian Clancy - but reproduced it here for posterity as it was the first type-in game I ever entered as a kid on a computer :-)
