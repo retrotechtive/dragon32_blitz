@@ -55,7 +55,7 @@
 3355: A7 80       STA   ,X+
 3357: 8C 01 5A    CMPX  #$015A
 335A: 26 F9       BNE   $3355
-335C: BD A1 C1    JSR   $A1C1
+335C: BD A1 C1    JSR   $A1C1     ; Tandy CoCo keyboard routine, change to BBE5 for Dragon 32
 335F: 35 74       PULS  B,X,Y,U
 3361: 81 5E       CMPA  #$5E
 3363: 10 27 00 71 LBEQ  $33D8
