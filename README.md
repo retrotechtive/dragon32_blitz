@@ -19,4 +19,4 @@ NB: I did not write this game - it was written by Damian Clancy - but reproduced
 
 UPDATE:
 
-The Tandy CoCo .cas and .wav files for loading into a vanilla CoCo2 is now uploaded also!
+The Tandy CoCo .cas and .wav files for loading into a vanilla CoCo2 are now uploaded also!
